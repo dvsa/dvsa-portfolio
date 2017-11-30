@@ -13,8 +13,8 @@ var path        = require('path'),
     port        = process.env.PORT || 3100,
     env         = process.env.NODE_ENV || 'development';
 
-var basicAuth = require('basic-auth-connect');
-app.use(basicAuth('admin', 'ilovemot'));
+// var basicAuth = require('basic-auth-connect');
+// app.use(basicAuth('admin', 'ilovemot'));
 
 /*
   Load all the project data from the files.
