@@ -7,12 +7,13 @@ var express = require('express'),
 /*
   A way to force the ordering of the themes.
 */
+// 'CPMS' removed for now
 var theme_order = [
-      // 'Universal Credit',
       'MOT',
       'CVS',
       'VOL',
-      'CPMS'
+      'TARS',
+      'Drivers & Riders'
     ];
 
 var priority_order = [
