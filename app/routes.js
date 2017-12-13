@@ -13,7 +13,8 @@ var theme_order = [
       'CVS',
       'VOL',
       'TARS',
-      'Drivers & Riders'
+      'Drivers & Riders',
+      'Roadside Payments'
     ];
 
 var priority_order = [
